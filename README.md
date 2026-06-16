@@ -1,5 +1,7 @@
 # 🌍 Economic Development Analytics
 
+Project Live at : https://economic-development-analytics-mphd.streamlit.app/
+
 A data analytics project built on **World Bank WDI data** that analyses economic development across 9 countries from 2000–2024 using only Python, NumPy, Polars, and Matplotlib.
 
 ---
